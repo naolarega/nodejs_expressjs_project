@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/naolArega/nodejs_expressjs_project/issues"
   },
-  "homepage": "https://github.com/naolArega/nodejs_expressjs_project#readme"
+  "homepage": "https://github.com/naolArega/nodejs_expressjs_project#readme",
+  "dependencies": {
+    "yarn": "^1.22.10"
+  }
 }
