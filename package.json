@@ -1,0 +1,24 @@
+{
+  "name": "nodejs_expressjs_project",
+  "version": "1.0.0",
+  "description": "a nodejs expressjs graphql peoject",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naolArega/nodejs_expressjs_project.git"
+  },
+  "keywords": [
+    "express",
+    "apollo",
+    "graphql"
+  ],
+  "author": "naol arega",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/naolArega/nodejs_expressjs_project/issues"
+  },
+  "homepage": "https://github.com/naolArega/nodejs_expressjs_project#readme"
+}
